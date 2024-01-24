@@ -61,5 +61,21 @@ body{
 }
 .foot{
     
-    margin-top: 10px;
+    margin-top: 70px;
+    margin-left: 280px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.play{
+    color: rgb(9, 78, 105);
+    padding: 5px 30px;
+    font-size: 15px;
+    border-radius: 3px;
+}
+.back{
+    color: green;
+    padding: 5px 30px;
+    font-size: 15px;
+    border-radius: 3px;
 }

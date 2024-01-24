@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: darkslateblue;
+   
     
 }
 .home{
@@ -9,6 +10,8 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center; 
+    margin-left: 600px;
+    
     height: 100vh;
     background-color: darkslateblue;
     color: white;
