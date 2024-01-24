@@ -1,0 +1,65 @@
+body{
+    background-color: darkslateblue;
+    height: 100vh;
+    position: fixed;
+}
+.result{
+    color: rgb(7, 170, 7);
+    display: flex;
+    justify-content: center;
+    font-size:40px;
+}
+.white-box{
+    margin:40px;
+    height: 450px;
+    background-color: white;
+    margin: 400px;
+    width: 750px;
+    margin-top:30px;
+
+
+}
+.bold{
+    color: blue;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top:15px;
+}
+
+.practice{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    padding:15px;
+
+}
+.question1{
+    display: flex;
+    gap: 450px;
+    margin: 10px;
+}
+.question2{
+    display: flex;
+    gap: 410px;
+    margin: 10px;
+}
+.question3{
+    display: flex;
+    gap: 440px;
+    margin: 10px;
+}
+.question4{
+    display: flex;
+    gap: 450px;
+    margin: 10px;
+}
+.questions{
+    gap:5px;
+    margin-top: 5px;
+    padding: 0px;
+}
+.foot{
+    
+    margin-top: 10px;
+}
